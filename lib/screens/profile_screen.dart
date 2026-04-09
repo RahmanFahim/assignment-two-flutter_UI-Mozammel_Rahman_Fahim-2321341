@@ -25,11 +25,11 @@ class ProfileScreen extends StatelessWidget {
             ),
             const SizedBox(height: 32),
             
-            _buildInfoField('Mozammel Rahman Fahim', 'Fahim'),
+            _buildInfoField('Full Name', 'Mozammel Rahman Fahim'),
             const SizedBox(height: 16),
-            _buildInfoField('2321341', 'S12345'),
+            _buildInfoField('ID', '2321341'),
             const SizedBox(height: 16),
-            _buildInfoField('nut02ral@gmail.com', '2321341@iub.edu.bd'),
+            _buildInfoField('Email ID', '2321341@iub.edu.bd'),
             const SizedBox(height: 16),
             _buildInfoField(
               'Bio / Story',
